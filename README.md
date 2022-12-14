@@ -36,4 +36,4 @@ https://github.com/PinarAktas/Work_Day_Schedular
 
 
 # ScreenShots
-You can find some screenshots in my folder.
+ ![](workdayschedular.png)
